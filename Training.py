@@ -1,3 +1,2 @@
-print("hello")
-print("fegweg")
-print("dasfS")
+def fun():
+    print("abc")
